@@ -9,9 +9,7 @@ A customer has a simple environment that need to be looked at from a security po
 
  ![Azure architecture diagram](./azure.png)
 
- ![Public Subnet - Bastion SG](./bastion.PNG)
-
- ![Public Subnet - NSG](public%20nsg.PNG.PNG)
+ ![Public Subnet - NSG](public%20nsg.PNG)
 
  ![Private Subnet - NSG](./public%20nsg.PNG)
 
