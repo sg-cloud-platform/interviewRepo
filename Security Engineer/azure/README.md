@@ -11,7 +11,7 @@ A customer has a simple environment that need to be looked at from a security po
 
  ![Public Subnet - NSG](public%20nsg.PNG)
 
- ![Private Subnet - NSG](./public%20nsg.PNG)
+ ![Private Subnet - NSG](./private%20nsg.PNG)
 
  ![IAM](./iam.PNG)
 
